@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
+body {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 30px;
+    color: #777;
+    background-image:url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDw0NDQ8PDQ0NDQ0NDQ0NDw8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMtNygtOisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAJ8BPgMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAACAQMABAf/xAAgEAEBAQEBAAEEAwAAAAAAAAAAAQIREvATIXGBA0Fh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/APiznKDnKoIvFUEdIvCkBJF4UhSAHCkPyvADi8OZKZBnIUy0mSmQZzLvLeR3kGHhfDfyvAYeHeG/HcBh9NL/ABvVI65B5PDvpvTcpwHn+ml/jeijYDz3CeW9g2AxuU8tbE8gxuRuW1g2Ay8pY04NgBYh0aAuVAFY5YDoscsB0V3CkBCjpCgLIUiQ4CyLxYcAZDmXSHICSFMrGmQGZLyeSBj4d5byO8gxmXeW3lOAzkdw+O4DK5Hy2sS5BhYljWwNAysFpRoAlK1KDOjY0o0Gdg06NAaNKjQGoVQAVIsBYUSKCkK8AigwoBRpBycBZDkTLTMB2YcyWYcgBMlMlxYDswplZGmQSZOZdKeaDO5C5b0KDLz/AI7y1g2gFyNy06l4DG5Z6jayBYDCwblv5GwGFyLW5Z2AGgp6g2AFGlU4AUbDqUGdQ7BoM4UGLAKKigsKDFgGsSHICyHI6QoB5aZZ5awGmTgZa5gOXhSLICSHI6HKCFPwn6PPz7gknf6W4aZ+fdf0Dz3FC4r1cSwHl8J4b6gAx1lnY31WWqDOhTrOgNEhoDYGoeqNoMrBsaWhaAUadHQBaNKwaAKigqosBViKBxpKyhwGsOMstIDSHllK0lBtGmayy0zAa5pxlmNcwF4cSQpAKZV0h+QGX8lCmYXmAzi0uQbwGWmOq31Yy1wGOqFbUaDz6+fZnY9NjPWQYDa01kbAZ2s9VrYz1ACjTTgM6J0aAUKVGgzipFgEsRYCrxIUBYeQhSg0hxlDgNctMsstcg2y1yxzTlBtCzWU0edA1lKVnmnKBynKzlKUGuGnWOdHNgtZ6pWs6CVno6z1QGs7S1QoJaNq0KCaY6aVloBtG1aNAajqIJRsKjQCwK0oUGSxFBYUFYBO6iwF6UqSFwCzWkrKQ8wG0aZY5a5BtmnKzy0yBSnmgUoNM6OVlClBoUZyl0C6s0HR6DX061n10oLaNW1naDqFjroLsFZ1LsLoHaZ0rRtAbBsLoWgOoFO0KA2p11Gg60bVqUGao4FVHARQYsA4UCVZQaLAlKA1zTmmUKA2zppNvPKUoPRNr7YSkDebKaYRc0Hpmi9MM6OaBp0fQ9d6Bbp3pEoF6DW0tDVBbobU6PQdaNrroLoC6GnehtB1G1bQoJaNq0aDqNWjQdRWjQBUcBRyKCqKgRAoH0pWZQGspSspTlBp1ZQlWUGsJlKs0DXq9Z+nTQNppfTH070Db2vth6WUG3t3pl6T0DTVHVC0boCtG0ep0FtFKNoH0bR9J0CtG1EBbUqJ0HUVtToJRXqALnOByo4CcigqioG7oyr0D6UrPq9Bp1ZWc0soNfSysvTvQNer1l1eg09O9M+u6DX070y6vQbTTvTHrug09J6Z9S0GnpPQdToHdDaNqdBej13UoL1LU6nQLqdRAXqO6gOqVUB//9k=);
+     background-size:cover;
+}
+#style {
+    background: #F9F9F9;
+    padding: 25px;
+    margin: 150px 0; 
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    color: black;
+    text-align: justify;
+    font-size: 20px;
+}
+fieldset {
+    border: medium none !important;
+    margin: 0 0 10px;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+  }
+  #style textarea {
+    height: 100px;
+    max-width: 100%;
+    resize: none;
+  }
+  h1{
+    font-family: 'Luckiest Guy', cursive;
+    color: #fff;
+    font-size: 30px;
+  }
+
+  #style button[type="submit"] {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    background: #4CAF50;
+    color: #FFF;
+    margin: 0 0 5px;
+    padding: 10px;
+    font-size: 15px;
+  }
+ 
